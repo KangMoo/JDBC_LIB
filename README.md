@@ -69,3 +69,47 @@ public class TestMain {
 }
 ```
 
+```java
+public class TestTable {
+  int id;
+  String memo;
+  int number;
+
+  public TestTable() {
+  }
+
+  public int getId() {
+    return id;
+  }
+
+  public void setId(int id) {
+    this.id = id;
+  }
+
+  public String getMemo() {
+    return memo;
+  }
+
+  public void setMemo(String memo) {
+    this.memo = memo;
+  }
+
+  public int getNumber() {
+    return number;
+  }
+
+  public void setNumber(int number) {
+    this.number = number;
+  }
+
+  @Override
+  public String toString() {
+    return "TestTable{" +
+      "id=" + id +
+      ", memo='" + memo + '\'' +
+      ", number=" + number +
+      '}';
+  }
+}
+```
+
