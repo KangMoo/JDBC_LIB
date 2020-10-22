@@ -4,7 +4,7 @@
 
 ## My JDBC Utility
 
-
+Tested with MariaDB
 
 **Sample Code**
 
@@ -13,9 +13,9 @@ public class TestMain {
   // Must Be changed Data
   public static final String SERVER = "127.0.0.1";
   public static final String PORT = "3306";
-  public static final String DBNAME = "SKB_VCS";
-  public static final String USER = "skbvcs";
-  public static final String PASSWD = "skbvcs.123";
+  public static final String DBNAME = "databaseName";
+  public static final String USER = "userName";
+  public static final String PASSWD = "password";
 
 
   public static void main(String[] args) {
