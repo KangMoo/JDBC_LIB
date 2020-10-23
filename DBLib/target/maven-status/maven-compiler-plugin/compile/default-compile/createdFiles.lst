@@ -1,0 +1,17 @@
+com/uangel/vcsm/hibernate/manager/HibernateSessionManager.class
+com/uangel/vcsm/hibernate/manager/CallHistoryManager.class
+com/uangel/vcsm/hibernate/info/table/CallHistory.class
+com/uangel/vcsm/hibernate/util/HibernateUtil.class
+com/uangel/vcsm/util/MariaDataType.class
+com/uangel/vcsm/util/StopType.class
+com/uangel/vcsm/jdbc/module/DbUpdater.class
+com/uangel/vcsm/jdbc/DbManager.class
+com/uangel/vcsm/hibernate/util/CustomCharConverter.class
+com/uangel/vcsm/util/SessionType.class
+com/uangel/vcsm/hibernate/util/CustomPhysicalNamingStrategy.class
+com/uangel/vcsm/hibernate/manager/HibernateRecordManager.class
+com/uangel/vcsm/hibernate/util/DatabaseQuery.class
+com/uangel/vcsm/jdbc/module/DbSelector.class
+com/uangel/vcsm/util/MediaType.class
+com/uangel/vcsm/hibernate/info/table/TblRecordInfo.class
+com/uangel/vcsm/hibernate/info/table/TblCallInfo.class

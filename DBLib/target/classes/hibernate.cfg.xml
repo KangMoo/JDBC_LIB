@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration SYSTEM
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.provider_class">org.hibernate.hikaricp.internal.HikariCPConnectionProvider</property>
+        <property name="connection.charSet">UTF-8</property>
+        <property name="connection.characterEncoding">UTF-8</property>
+        <property name="connection.useUnicode">true</property>
+        <!-- Echo all executed SQL to stdout -->
+        <property name="show_sql">true</property>
+        <property name="format_sql">true</property>
+        <property name="use_sql_comments">false</property>
+        <property name="current_session_context_class">thread</property>
+
+        <!--property name="hikari.dataSourceClassName">org.mariadb.jdbc.MariaDbDataSource</property-->
+        <property name="hikari.driverClassName">com.mysql.jdbc.Driver</property>
+        <property name="hikari.minimumIdle">5</property>
+        <property name="hikari.maximumPoolSize">10</property>
+        <property name="hikari.idleTimeout">30000</property>
+        <property name="hikari.autoCommit">false</property>
+
+        <!-- Table Class -->
+        <mapping class="org.shh.db.table.Alm_History"/>
+        <!-- View Class -->
+        <mapping class="org.shh.db.table.Field_Info_View"/>
+
+    </session-factory>
+</hibernate-configuration>

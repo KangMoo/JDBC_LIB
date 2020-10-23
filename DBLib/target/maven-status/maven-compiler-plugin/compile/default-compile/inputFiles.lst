@@ -1,0 +1,17 @@
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/util/SessionType.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/hibernate/util/CustomPhysicalNamingStrategy.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/util/MariaDataType.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/hibernate/manager/HibernateSessionManager.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/hibernate/info/table/TblCallInfo.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/hibernate/manager/CallHistoryManager.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/util/MediaType.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/hibernate/info/table/TblRecordInfo.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/hibernate/util/HibernateUtil.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/hibernate/util/CustomCharConverter.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/hibernate/util/DatabaseQuery.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/hibernate/info/table/CallHistory.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/jdbc/module/DbSelector.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/util/StopType.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/hibernate/manager/HibernateRecordManager.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/jdbc/DbManager.java
+/Users/heokangmoo/SKB/DBLib/src/main/java/com/uangel/vcsm/jdbc/module/DbUpdater.java
