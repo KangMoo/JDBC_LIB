@@ -4,7 +4,7 @@
 
 ## My JDBC Utility
 
-Tested with MariaDB
+Tested with MariaDB.
 
 **Sample Code**
 
